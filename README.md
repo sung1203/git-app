@@ -25,3 +25,4 @@ Things you may want to cover:
 
 ## how to use GitHub Desltop
 
+## how to use got revert
